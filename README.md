@@ -1,0 +1,2 @@
+# django-posts
+Django + HTTPS
